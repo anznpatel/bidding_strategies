@@ -1,2 +1,2 @@
-# bidding_strategies
-Real-Time Bidding Strategies for iPinYou Dataset
+# Real-Time Bidding Strategies 
+Derived from the iPinYou Dataset
