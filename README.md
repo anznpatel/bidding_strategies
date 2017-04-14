@@ -1,2 +1,2 @@
 # Real-Time Bidding Strategies 
-Derived from the iPinYou Dataset
+As part of the Web Economics Project at UCL
